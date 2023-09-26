@@ -1,7 +1,7 @@
 # Defaul ignored files
 /workspace.xml
 .idea/*
-lib/__pycache__/*
+./lib/__pycache__/*
 .vscode/launch.json
 .vscode/settings.json
 __pycache__/*
