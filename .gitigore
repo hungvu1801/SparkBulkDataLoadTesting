@@ -6,3 +6,4 @@
 .vscode/settings.json
 __pycache__/*
 .vscode/*
+lib/__pycache__/*
